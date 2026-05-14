@@ -26,7 +26,6 @@ I design and maintain the **Muonroi open-core ecosystem** — a production-grade
 | Frontend | [muonroi-ui-engine](https://github.com/muonroi/muonroi-ui-engine) | Manifest-driven runtime, framework adapters, ASP.NET MVC bridge |
 | AI Memory | [experience-engine](https://github.com/muonroi/experience-engine) | Agents that learn from mistakes — vector memory that shrinks as capability grows |
 | CLI | [muonroi-cli](https://github.com/muonroi/muonroi-cli) | Unified CLI powered by the experience engine |
-| AI Agents | [grok-cli](https://github.com/muonroi/grok-cli) | Autonomous agent powered by Grok |
 | Dev Workflow | [quick-codex](https://github.com/muonroi/quick-codex) | Codex workflow skills for multi-step agentic tasks |
 
 ---
